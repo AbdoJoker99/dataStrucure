@@ -43,6 +43,7 @@ src/
   ├── TreeOperations.java          # Tree operations class
   ├── GUI.java                     # GUI for interacting with data structures
   └── utils/           
+```
 
 ## Contributors
 
