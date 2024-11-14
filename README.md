@@ -47,5 +47,5 @@ src/
 
 ## Contributors
 
-- **Abdelrahman Wael** - [GitHub Profile](https://github.com/AbdoJoker99)
+- **Abdelrahman Wael** - https://github.com/AbdoJoker99
 
