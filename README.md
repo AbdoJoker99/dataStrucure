@@ -37,11 +37,11 @@ The project follows a structured directory layout to ensure maintainability and 
 
 ```bash
 src/
-  ├── ArrayOperations.java         # Array operations class
-  ├── StackOperations.java         # Stack operations class
-  ├── QueueOperations.java         # Queue operations class
-  ├── TreeOperations.java          # Tree operations class
-  ├── GUI.java                     # GUI for interacting with data structures
+  ├── ArrayOperations.py        # Array operations class
+  ├── StackOperations.py         # Stack operations class
+  ├── QueueOperations.py         # Queue operations class
+  ├── TreeOperations.py          # Tree operations class
+  ├── GUI                   # GUI for interacting with data structures
   └── utils/           
 ```
 
